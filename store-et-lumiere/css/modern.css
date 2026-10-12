@@ -11,3 +11,8 @@ html{scroll-padding-top:155px}body{background:var(--paper);color:var(--ink);font
 @media(max-width:820px){.modern-actions .elementor-menu-cart__toggle a::before{content:'Panier';font-size:11px}.modern-header:has(#modern-links.is-open) .search-form{display:flex;width:100%;margin-top:12px}.modern-header:has(#modern-links.is-open) .local-search-results{left:0;right:0}.modern-actions{gap:8px}}
 .elementor-slide-description{font-family:Arial,Helvetica,sans-serif!important}.modern-home .elementor-widget-slides{margin-bottom:24px}.modern-header .screen-reader-text{position:absolute;clip:rect(1px,1px,1px,1px);width:1px;height:1px;overflow:hidden}
 .elementor-slide-heading{color:#fff!important;margin-top:0;margin-bottom:22px}.modern-menu:hover,.modern-menu:focus,.modern-menu[aria-expanded=true]{background:var(--sand)!important;color:var(--ink)!important;transform:none}.modern-categories button:hover{background:var(--sand)!important;transform:none}
+
+
+/* Contrast for the two blue-grey home introduction panels. */
+.modern-home :is(.elementor-element-d43eb05,.elementor-element-e797d42) :is(.ekit-heading--title,.elementskit-section-subtitle,.elementor-widget-text-editor,p){color:#F8F7F4!important}
+.modern-home .elementor-element-e797d42 .elementskit-btn{color:#263e3b!important}
