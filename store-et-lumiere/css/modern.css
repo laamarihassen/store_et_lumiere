@@ -15,11 +15,20 @@ html{scroll-padding-top:155px}body{background:var(--paper);color:var(--ink);font
 
 
 
+
+
+
+
 /* Contrast for the two blue-grey home introduction panels. */
 .modern-home :is(.elementor-element-d43eb05,.elementor-element-e797d42) :is(.ekit-heading--title,.elementskit-section-subtitle,.elementor-widget-text-editor,p){color:#F8F7F4!important}
 .modern-home .elementor-element-e797d42 .elementskit-btn{color:#263e3b!important}
 
 
+
+
 /* Hide public prices and the 48-hour dispatch claims. */
 .price,.woocommerce-Price-amount,.wapf-product-totals,.wapf-pricing-hint,.modern-total,.elementor-menu-cart__subtotal,.woocommerce-mini-cart__total,.product-price,.product-subtotal,.cart-subtotal,.order-total{display:none!important}
 .elementor-widget.elementor-element-adef47b,.elementor-widget.elementor-element-0611cb1,.elementor-widget.elementor-element-14d81a45,.elementor-widget.elementor-element-1a916486,.elementor-widget.elementor-element-14014110,.elementor-widget.elementor-element-50dbd8d7,.elementor-widget.elementor-element-201d4002,.elementor-widget.elementor-element-3db35585{display:none!important}
+
+
+.wapf-field-calc,.local-search-results small,.elementor-widget.elementor-element-5510facd,.elementor-widget.elementor-element-5433e155{display:none!important}
