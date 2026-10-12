@@ -68,8 +68,8 @@ function setupWidgets(){
 }
 
 function hideOptionPrices(){
- const form=$('form.cart');if(!form)return;
- const removeHints=()=>$('select option .wapf-pricing-hint',form).forEach(n=>n.remove());
+ const form=document.querySelector('form.cart');if(!form)return;
+ const removeHints=()=>form.querySelectorAll('select option .wapf-pricing-hint').forEach(n=>n.remove());
  removeHints();new MutationObserver(removeHints).observe(form,{childList:true,subtree:true});
 }
 function setup(){hideOptionPrices();setupWidgets();calculatePrice();setupReviews();$$('form.cart .single_add_to_cart_button').forEach(b=>b.classList.remove('disabled'));const c=document.createElement('button');c.className='local-consent';c.textContent='✓';c.setAttribute('aria-label','Informations sur les cookies');c.addEventListener('click',()=>toast('Aucun suivi publicitaire. Les demandes sont enregistrées uniquement lorsque vous choisissez de les télécharger.'));document.body.append(c);$$('.woocommerce-ordering select').forEach(select=>select.addEventListener('change',()=>{
