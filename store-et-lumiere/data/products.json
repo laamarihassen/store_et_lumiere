@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Store Vénitien en bois",
+    "url": "/produit/store-venitien-en-bois/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2023/07/8711460100024_2._1500x1500.jpg",
+    "price": 60
+  },
+  {
+    "name": "Store Californien",
+    "url": "/produit/store-californien/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2023/07/377-scaled.jpg",
+    "price": 11.46
+  },
+  {
+    "name": "Store Déroulant",
+    "url": "/produit/store-deroulant/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2024/11/Deroulant-1.png",
+    "price": 15.13
+  },
+  {
+    "name": "Store Vénitien aluminium",
+    "url": "/produit/store-venitien-en-aluminium/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2024/11/Venitien-alu-3.png",
+    "price": 60
+  },
+  {
+    "name": "Moustiquaire",
+    "url": "/produit/moustiquaire/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2024/11/Moustiquaire-1.png",
+    "price": 24.6
+  },
+  {
+    "name": "Store Jour & Nuit",
+    "url": "/produit/store-jour-nuit/",
+    "image": "/assets/external/i0.wp.com/www.storeetlumiere.com/wp-content/uploads/2023/05/jn-produit.png",
+    "price": 13.75
+  }
+]

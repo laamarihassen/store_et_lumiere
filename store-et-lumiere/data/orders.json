@@ -1,0 +1,50 @@
+{
+  "menu_order": [
+    "/produit/moustiquaire/",
+    "/produit/store-californien/",
+    "/produit/store-deroulant/",
+    "/produit/store-jour-nuit/",
+    "/produit/store-venitien-en-aluminium/",
+    "/produit/store-venitien-en-bois/"
+  ],
+  "popularity": [
+    "/produit/store-jour-nuit/",
+    "/produit/moustiquaire/",
+    "/produit/store-deroulant/",
+    "/produit/store-californien/",
+    "/produit/store-venitien-en-bois/",
+    "/produit/store-venitien-en-aluminium/"
+  ],
+  "rating": [
+    "/produit/store-jour-nuit/",
+    "/produit/store-venitien-en-bois/",
+    "/produit/store-deroulant/",
+    "/produit/store-venitien-en-aluminium/",
+    "/produit/moustiquaire/",
+    "/produit/store-californien/"
+  ],
+  "date": [
+    "/produit/moustiquaire/",
+    "/produit/store-deroulant/",
+    "/produit/store-californien/",
+    "/produit/store-venitien-en-bois/",
+    "/produit/store-venitien-en-aluminium/",
+    "/produit/store-jour-nuit/"
+  ],
+  "price": [
+    "/produit/store-venitien-en-aluminium/",
+    "/produit/store-venitien-en-bois/",
+    "/produit/store-californien/",
+    "/produit/store-jour-nuit/",
+    "/produit/store-deroulant/",
+    "/produit/moustiquaire/"
+  ],
+  "price-desc": [
+    "/produit/moustiquaire/",
+    "/produit/store-deroulant/",
+    "/produit/store-jour-nuit/",
+    "/produit/store-californien/",
+    "/produit/store-venitien-en-bois/",
+    "/produit/store-venitien-en-aluminium/"
+  ]
+}

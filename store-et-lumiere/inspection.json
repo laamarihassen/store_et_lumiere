@@ -1,0 +1,480 @@
+{
+  "pages": {
+    "/store-interieur/": {
+      "title": "Store intérieur - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/store-interieur/",
+      "headings": [
+        "Nos Stores",
+        "Store Californien",
+        "Store vénitien aluminium",
+        "Store Vénitien bois",
+        "Store Jour et nuit",
+        "Store déroulant"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/boutique/": {
+      "title": "Boutique - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/boutique/",
+      "headings": [
+        "Boutique",
+        "Moustiquaire",
+        "Store Californien",
+        "Store Déroulant",
+        "Store Jour & Nuit",
+        "Store Vénitien aluminium",
+        "Store Vénitien en bois"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/": {
+      "title": "Accueil - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/",
+      "headings": [
+        "Moustiquaire",
+        "Store Californien",
+        "Store Déroulant",
+        "Store Jour & Nuit",
+        "Store Vénitien aluminium",
+        "Store Vénitien en bois",
+        "Store & Lumière",
+        "Transformez votre intérieur avec des solutions sur mesure",
+        "À votre écoute",
+        "Un service client dédié à votre satisfaction",
+        "Nos produits les plus recherchés",
+        "Store Déroulant",
+        "Store Jour & nuit",
+        "Derniers avis de nos clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/store-californien/": {
+      "title": "Store Californien - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/store-californien/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Store Californien",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments du store Jour & Nuit :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Qu'est-ce qu'un store californien ?",
+        "Puis-je installer un store californien sur une porte-fenêtre ?",
+        "Quels types de fixation sont disponibles pour les stores californiens ?",
+        "Comment entretenir un store californien ?",
+        "Quelle est la durée de vie d’un store californien?",
+        "Le store californien est-il adapté aux baies vitrées ?",
+        "Peut-on motoriser les stores californiens ?",
+        "Quels types de vis et chevilles dois-je utiliser pour installer mes stores ?",
+        "Quelle est la largeur standard des lamelles d’un store californien ?",
+        "Est-ce que les stores californiens offrent une bonne protection contre la chaleur ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/moustiquaire/": {
+      "title": "Moustiquaire - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/moustiquaire/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Moustiquaire",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments de nos moustiquaires :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Pourquoi installer une moustiquaire chez moi ?",
+        "Les moustiquaires réduisent-elles la luminosité ?",
+        "Comment choisir la bonne moustiquaire pour mon besoin ?",
+        "Les moustiquaires sont-elles faciles à installer ?",
+        "Peut-on installer une moustiquaire sur une fenêtre déjà existante ?",
+        "Comment entretenir et nettoyer ma moustiquaire ?",
+        "Les moustiquaires sont-elles résistantes aux intempéries ?",
+        "Puis-je ouvrir ma fenêtre avec la moustiquaire en place ?",
+        "Quelle est la durée de vie d'une moustiquaire ?",
+        "Les moustiquaires sont-elles efficaces contre le pollen et la poussière ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/store-deroulant/": {
+      "title": "Store Déroulant - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/store-deroulant/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Store Déroulant",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments du store Déroulant :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Quelles sont les caractéristiques d'un store rouleau ?",
+        "Quels sont les avantages des stores rouleaux par rapport aux autres types de stores ?",
+        "Est-il difficile d'installer un store rouleau ?",
+        "Les stores rouleaux sont-ils adaptés à toutes les pièces de la maison ?",
+        "Peut-on obtenir une occultation complète avec un store rouleau ?",
+        "Comment entretenir un store rouleau ?",
+        "Est-ce que les stores rouleaux offrent une bonne protection contre les regards extérieurs ?",
+        "Est-il possible de motoriser un store rouleau ?",
+        "Les stores rouleaux sont-ils disponibles dans différentes couleurs et textures ?",
+        "Les stores rouleaux aident-ils à isoler la pièce ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/store-venitien-en-aluminium/": {
+      "title": "Store Vénitien aluminium - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/store-venitien-en-aluminium/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Store Vénitien aluminium",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments du store vénitien :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Pourquoi choisir un store vénitien ?",
+        "Les stores vénitiens sont-ils résistants à l'humidité ?",
+        "Est-il compliqué d’installer un store vénitien ?",
+        "Dans quelles pièces peut-on installer des stores vénitiens ?",
+        "Comment nettoyer un store vénitien ?",
+        "Les stores vénitiens offrent-ils une bonne intimité ?",
+        "Est-ce que les stores vénitiens bloquent complètement la lumière ?",
+        "Peut-on personnaliser la couleur des stores vénitiens ?",
+        "Les stores vénitiens sont-ils efficaces pour contrôler la température ?",
+        "Existe-t-il des options motorisées pour les stores vénitiens ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/qui-sommes-nous/": {
+      "title": "Qui sommes-nous? - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/qui-sommes-nous/",
+      "headings": [
+        "Qui sommes-nous ?",
+        "Nos réalisations",
+        "Des années d'expérience",
+        "Vous avez des questions ?"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/store-jour-nuit/": {
+      "title": "Store Jour & Nuit - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/store-jour-nuit/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Store Jour & Nuit",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments du store Jour & Nuit :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Qu'est-ce qu'un store jour et nuit ?",
+        "Comment fonctionne un store jour et nuit ?",
+        "Le store jour et nuit est-il facile à installer ?",
+        "Peut-on régler la luminosité avec précision ?",
+        "Quelle est la durée de vie d’un store jour et nuit ?",
+        "Ce type de store est-il adapté à toutes les pièces ?",
+        "Comment nettoyer un store jour et nuit ?",
+        "Est-ce que le store jour et nuit protège contre les regards extérieurs ?",
+        "Est-ce que le store jour et nuit offre une protection thermique ?",
+        "Peut-on motoriser un store jour et nuit ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/produit/store-venitien-en-bois/": {
+      "title": "Store Vénitien en bois - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/produit/store-venitien-en-bois/",
+      "headings": [
+        "10% de réduction avec le code BONJOUR10",
+        "10% de réduction avec le code BONJOUR10",
+        "Store Vénitien en bois",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Garantie 5 ans",
+        "Expédié sous 48h",
+        "Paiement sécurisé",
+        "Meilleur prix du marché",
+        "14 jours d'essai*",
+        "Présentation",
+        "Les points forts",
+        "Les inconvénients",
+        "Composition du produit",
+        "Eléments du store vénitien :",
+        "Guide d'installation",
+        "Guide pour les mesures",
+        "Notice d'installation",
+        "Recommandation & sécurité",
+        "Questions fréquentes",
+        "Pourquoi choisir un store vénitien ?",
+        "Les stores vénitiens sont-ils résistants à l'humidité ?",
+        "Est-il compliqué d’installer un store vénitien ?",
+        "Dans quelles pièces peut-on installer des stores vénitiens ?",
+        "Comment nettoyer un store vénitien ?",
+        "Les stores vénitiens offrent-ils une bonne intimité ?",
+        "Est-ce que les stores vénitiens bloquent complètement la lumière ?",
+        "Peut-on personnaliser la couleur des stores vénitiens ?",
+        "Les stores vénitiens sont-ils efficaces pour contrôler la température ?",
+        "Existe-t-il des options motorisées pour les stores vénitiens ?",
+        "Avis clients"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/contact/": {
+      "title": "Contact - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/contact/",
+      "headings": [
+        "Contact"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/mon-compte/": {
+      "title": "Mon compte - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/mon-compte/",
+      "headings": [
+        "Se connecter",
+        "S’enregistrer"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/demande-de-devis/": {
+      "title": "Demande de devis - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/demande-de-devis/",
+      "headings": [
+        "Recevez un devis sur mesure",
+        "01 80 86 70 45"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/panier/": {
+      "title": "Panier - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/panier/",
+      "headings": [
+        "Panier"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/mentions-legales/": {
+      "title": "Mentions légales - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/mentions-legales/",
+      "headings": [
+        "Mentions légales",
+        "Informations sur l'éditeur du site",
+        "Responsabilité éditoriale",
+        "Propriété intellectuelle",
+        "Limitation des responsabilités"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/privacy-policy/": {
+      "title": "Politique de confidentialité - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/privacy-policy/",
+      "headings": [
+        "Politique de confidentialité",
+        "Collecte et utilisation des données personnelles",
+        "Conservation des données",
+        "Partage des données",
+        "Vos droits",
+        "Cookies et technologies de suivi",
+        "Sécurité des données",
+        "Modifications de la politique de confidentialité"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/conditions-dutilisation/": {
+      "title": "Conditions d'utilisation - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/conditions-dutilisation/",
+      "headings": [
+        "Conditions d'utilisation"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/remboursements_retours/": {
+      "title": "Politique en matière de remboursements et de retours - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/remboursements_retours/",
+      "headings": [
+        "Politique en matière de remboursements et de retours",
+        "Produits sur mesure : aucune reprise ni remboursement",
+        "Prise de mesures et validation de commande",
+        "Retour pour vices caches ou non-conformité",
+        "Procédure de réclamation",
+        "Annulation de commande",
+        "Garantie commerciale"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/store-interieur/": {
+      "title": "Archives des Store intérieur - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/store-interieur/",
+      "headings": [
+        "Store intérieur",
+        "Store Californien",
+        "Store Déroulant",
+        "Store Jour & Nuit",
+        "Store Vénitien aluminium",
+        "Store Vénitien en bois"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/store-interieur/store-deroulant/": {
+      "title": "Archives des Store Déroulant - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/store-interieur/store-deroulant/",
+      "headings": [
+        "Store Déroulant",
+        "Store Déroulant"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/moustiquaire/": {
+      "title": "Archives des Moustiquaire - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/moustiquaire/",
+      "headings": [
+        "Moustiquaire",
+        "Moustiquaire"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/store-interieur/store-californien/": {
+      "title": "Archives des Store californien - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/store-interieur/store-californien/",
+      "headings": [
+        "Store californien",
+        "Store Californien"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/store-interieur/store-venitien/": {
+      "title": "Archives des Store vénitien - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/store-interieur/store-venitien/",
+      "headings": [
+        "Store vénitien",
+        "Store Vénitien aluminium",
+        "Store Vénitien en bois"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/categorie-produit/store-interieur/store-jour-et-nuit/": {
+      "title": "Archives des Store Jour et Nuit - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/categorie-produit/store-interieur/store-jour-et-nuit/",
+      "headings": [
+        "Store Jour et Nuit",
+        "Store Jour & Nuit"
+      ],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/mon-compte/lost-password/": {
+      "title": "Mon compte - Store et Lumière",
+      "url": "https://www.storeetlumiere.com/mon-compte/lost-password/",
+      "headings": [],
+      "inspected": "HTML public récupéré; vérification visuelle distincte"
+    },
+    "/nos-realisations/": {
+      "title": "Cette page ne semble pas exister.",
+      "url": "https://www.storeetlumiere.com/nos-realisations/",
+      "status": 404,
+      "inspected": "Page d’erreur consultée dans Chrome, aucune galerie accessible."
+    }
+  },
+  "asset_count": 499,
+  "errors": [
+    "HTTP Error 404: Not Found",
+    "https://fonts.googleapis.com/css HTTP Error 400: Bad Request",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/jquery-blockui/jquery.blockUI.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/frontend/single-product.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/photoswipe/photoswipe.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/frontend/account-i18n.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/selectWoo/selectWoo.full.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/frontend/country-select.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/frontend/cart.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/assets/external/c0.wp.com/p/woocommerce/9.5.4/assets/js/frontend/lost-password.min.js HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/wp-content/plugins/woocommerce/assets/fonts/star.eot HTTP Error 404: Not Found",
+    "https://www.storeetlumiere.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot HTTP Error 404: Not Found"
+  ],
+  "verification": {
+    "browser_inspection": "Les 25 pages publiques et l’erreur /nos-realisations/ ont été consultées dans Chrome.",
+    "local_checks": [
+      "Accueil 1440 px et 390 px",
+      "Carrousel et menu déroulant",
+      "Recherche de produits",
+      "Store Jour & Nuit : 100 × 150 cm = 82,50 €",
+      "Panier : ajout, quantités, réduction BONJOUR10 et suppression"
+    ],
+    "unavailable": [
+      "Paiement réel",
+      "Connexion et inscription",
+      "Envoi des formulaires et de la newsletter",
+      "Historique et suivi des commandes",
+      "Galerie /nos-realisations/ (404 sur le site original)"
+    ]
+  },
+  "download_notes": [
+    "Les erreurs de collecte initiales concernent notamment des URL secondaires. Les liens et fichiers nécessaires sont vérifiés séparément dans VERIFICATION.md."
+  ]
+}
