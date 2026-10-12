@@ -67,7 +67,12 @@ function setupWidgets(){
  $$('.elementor-background-lazyload').forEach(n=>n.classList.remove('elementor-background-lazyload'));
 }
 
-function setup(){setupWidgets();calculatePrice();setupReviews();$$('form.cart .single_add_to_cart_button').forEach(b=>b.classList.remove('disabled'));const c=document.createElement('button');c.className='local-consent';c.textContent='✓';c.setAttribute('aria-label','Informations sur les cookies');c.addEventListener('click',()=>toast('Aucun suivi publicitaire. Les demandes sont enregistrées uniquement lorsque vous choisissez de les télécharger.'));document.body.append(c);$$('.woocommerce-ordering select').forEach(select=>select.addEventListener('change',()=>{
+function hideOptionPrices(){
+ const form=$('form.cart');if(!form)return;
+ const removeHints=()=>$ ('select option .wapf-pricing-hint',form).forEach(n=>n.remove());
+ removeHints();new MutationObserver(removeHints).observe(form,{childList:true,subtree:true});
+}
+function setup(){hideOptionPrices();setupWidgets();calculatePrice();setupReviews();$$('form.cart .single_add_to_cart_button').forEach(b=>b.classList.remove('disabled'));const c=document.createElement('button');c.className='local-consent';c.textContent='✓';c.setAttribute('aria-label','Informations sur les cookies');c.addEventListener('click',()=>toast('Aucun suivi publicitaire. Les demandes sont enregistrées uniquement lorsque vous choisissez de les télécharger.'));document.body.append(c);$$('.woocommerce-ordering select').forEach(select=>select.addEventListener('change',()=>{
  const parent=$('ul.products');if(!parent)return;const order=sortOrders[select.value];if(!order?.length){toast('Ce tri est indisponible.');return;}
  const nodes=$$('li.product',parent);nodes.sort((a,b)=>{const path=x=>$('a.woocommerce-LoopProduct-link',x)?.getAttribute('href');const rank=x=>{const i=order.indexOf(path(x));return i<0?999:i;};return rank(a)-rank(b);});nodes.forEach(n=>parent.append(n));
 }));}
